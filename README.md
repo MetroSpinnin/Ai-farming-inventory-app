@@ -7,7 +7,7 @@ Determining the right inventory management system for your business requires ass
 
 ## Basic screen shot of the Enterprise app
 
-![capturenitro](https://user-images.githubusercontent.com/46245794/53302079-bec05a80-385a-11e9-92b2-a588a4938365.PNG)
+![captureai](https://user-images.githubusercontent.com/46245794/53302458-8d498e00-385e-11e9-8c0f-08576c0a51cf.PNG)
 
 ## Contributing
 Please feel free to fork this package and contribute by submitting a pull request to add to the list of questions.
