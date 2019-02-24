@@ -33,6 +33,19 @@
                   $data = stripslashes($data);
                   return $data;
                 }
+                
+                /*
+                Using the php cryptographic function below for
+                secure login to aid core protection for user input
+                please note that this was not used, but can be applied
+                                
+                define (UA, "This is a freaking secure text");
+                $key  = md5(UA);
+                $ainitro_encryption_method = AES-256-CBC;
+                $variable_to_be_used = $thevariableyouneedtoencrypt;
+                openssl_encrypt($variable_to_be_used, $ainitro_encryption_method,$key); 
+                
+                */
 
                 /* 
                 Then check that the correct details have been
