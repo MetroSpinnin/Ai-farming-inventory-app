@@ -26,8 +26,7 @@ was an error in connecting to
 the database.
 */
 
-if(!$conn)
-{
-	echo "error in connection";
+if(mysqli_connect_errno){
+echo ("error connecting to the database" . mysqli_connect_error());
 }
 ?>
