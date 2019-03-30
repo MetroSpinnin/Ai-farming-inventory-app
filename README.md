@@ -1,4 +1,4 @@
-# Ai-farming-inventory-app
+# PHP-farming-inventory-app
 The Ai Farming inventory enterprise application is to help farmers track their assets and classify them into order of high or low priority whilst trying to make sure that the most important ones which are cost effective are handled before others, furthermore an algorithm to show an adequate chart on actions the farmer should follow is also implemented.
 
 Inventory management about knowing what products to have on hand and when to have them on hand. It's about understanding what you have in your warehouse and where your stock is located. It means maintaining optimal inventory levels that avoid unnecessary capital expenditures, while ensuring you can meet demand and not run out of goods.
